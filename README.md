@@ -1,4 +1,4 @@
-# 🌽 Corn Leaf Disease Classifier (CNN)
+# 🌽 Corn Disease Classifier (CNN)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
@@ -90,3 +90,4 @@ API Deployment: Wrap the model in a REST API (e.g., using Flask or FastAPI) for 
 Mobile App Version: Develop a mobile application (e.g., with TensorFlow Lite) for field-based diagnosis.
 
 Cloud Hosting: Deploy the Streamlit application to a cloud service (e.g., Streamlit Cloud, Heroku).
+
